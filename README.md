@@ -1,2 +1,1 @@
-# robotron2000
-Projeto em javascript
+# robotron-2000
